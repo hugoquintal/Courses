@@ -1,4 +1,4 @@
-#Vaccine Prediction
+Vaccine Prediction
 
 This is my first full fledged ML code attempt.
 It uses a simple linear regression algorithm to predict vaccination in Portugal based on a daily basis.

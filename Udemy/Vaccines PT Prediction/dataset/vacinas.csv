@@ -1,3 +1,4 @@
+SEP=,
 data,doses,doses_novas,doses1,doses1_novas,doses2,doses2_novas,pessoas_vacinadas_completamente,pessoas_vacinadas_completamente_novas,pessoas_vacinadas_parcialmente,pessoas_vacinadas_parcialmente_novas,pessoas_inoculadas,pessoas_inoculadas_novas,vacinas,vacinas_novas
 27-12-2020,4963,4963,4963,4963,0,0,0,,4963,,4963,,4963,
 28-12-2020,7754,2791,7754,2791,0,0,0,0,7754,2791,7754,2791,7754,2791
